@@ -1,0 +1,26 @@
+{
+  "name": "leituradecsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianoCruz01/leituraDecsv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianoCruz01/leituraDecsv/issues"
+  },
+  "homepage": "https://github.com/AdrianoCruz01/leituraDecsv#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
